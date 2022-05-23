@@ -1,0 +1,15 @@
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\bin\Debug\net6.0\CalculoIMC.exe
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\bin\Debug\net6.0\CalculoIMC.deps.json
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\bin\Debug\net6.0\CalculoIMC.runtimeconfig.json
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\bin\Debug\net6.0\CalculoIMC.dll
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\bin\Debug\net6.0\CalculoIMC.pdb
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\obj\Debug\net6.0\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\obj\Debug\net6.0\CalculoIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\obj\Debug\net6.0\CalculoIMC.AssemblyInfoInputs.cache
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\obj\Debug\net6.0\CalculoIMC.AssemblyInfo.cs
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\obj\Debug\net6.0\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\obj\Debug\net6.0\CalculoIMC.dll
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\obj\Debug\net6.0\refint\CalculoIMC.dll
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\obj\Debug\net6.0\CalculoIMC.pdb
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\obj\Debug\net6.0\CalculoIMC.genruntimeconfig.cache
+C:\Users\Fagner Fernandes\source\repos\CalculoIMC\CalculoIMC\obj\Debug\net6.0\ref\CalculoIMC.dll
